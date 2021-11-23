@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Cypress0 React app
+
+Customer management app that allows for viewing and managing customers as well as their records.
+
+This is the standalone fronend version of this pwa made to allow
+for testing without the backend. 
+
+View running build at https://cypress0.herokuapp.com/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
